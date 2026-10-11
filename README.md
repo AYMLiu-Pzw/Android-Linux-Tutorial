@@ -54,5 +54,3 @@ MIT License
 | [F-Droid](https://f-droid.org) | 开源应用商店 |
 | [Ollama](https://github.com/ollama/ollama) | 本地大模型 |
 | [Ansible](https://github.com/ansible/ansible) | 运维自动化工具 |
-
-感谢这些项目的作者，没有它们就没有本教程。
